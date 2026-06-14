@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "thetitancraft.minecraft.pe",
+  "serverPort": 20000,
+  "botUsername": "DONT_KILL_ME",
   "botChunk": 1
 }
